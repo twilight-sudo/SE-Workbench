@@ -1,0 +1,4 @@
+.direnv
+node_modules
+tiny-pro/web/.env
+tiny-pro/web/dev.env
