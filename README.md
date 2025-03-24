@@ -4,6 +4,8 @@
 
 <!--TODO! add deployment guide -->
 
+你需要自行创建.env文件配置mysql,redis的账号密码等
+
 ## Contributers
 
 - [Seeker472](https://github.com/Seeker0472)
